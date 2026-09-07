@@ -1,0 +1,3 @@
+python3 calculadora.py
+chmod +x calculadora.sh
+./calculadora.sh
